@@ -15,9 +15,11 @@
     </properties>
     <build>
             <plugins>
-                <groupId>org.sonarsource.scanner.maven</groupId>
-                <artifactId>sonar-mavin-plugin</artifactId>
-                <version>3.9.0.2155</version>
+                     <plugin>
+                              <groupId>org.sonarsource.scanner.maven</groupId>
+                              <artifactId>sonar-maven-plugin</artifactId>
+                              <version>3.9.0.2155</version>
+                     </plugin>
             </plugins>
     </build>
 </project>
