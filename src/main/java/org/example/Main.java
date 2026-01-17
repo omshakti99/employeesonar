@@ -8,7 +8,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
 
          String a[]={"ramu","siva","krishna"};
-        System.out.println();
+        System.out.println()
         for (int i = 0; i <= 2; i++) {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
